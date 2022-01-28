@@ -15,7 +15,7 @@ Hay que resolver los siguientes problemas:
 1. Primero de todo, necesitaría ayuda resolviendo 2 _fatal errors_, cuando resuelvas uno, te saldrá el siguiente. (10 puntos)
 2. He creado dos ficheros llamados _blog.css_ y _fonts.css_ en el directorio _inc/css_ pero no sé cómo incorporarlos al tema. Además, quiero que tengan preferencia respecto al ya incorporado css de _bootstrap_ (10 puntos)
 3. Me gustaría poner el título del blog como título de la página, para que cuando alguien lo visite, el explorador ponga el título (ver imagen 1) (10 puntos)
-4. Quiero incorporar un menú de navegación en el footer, pero no sé cómo hacerlo (20 puntos)
+4. Quiero incorporar un menú de navegación en el footer tal y como está hecho en el header, pero no sé cómo hacerlo (20 puntos)
 5. En el directorio _template-parts/content_ he creado un fichero llamado _content-single.php_. Me gustaría incorporar eso como parte de la plantilla del single. pero no sé cómo hacerlo. Ahora mismo la plantilla single está vacía. (10 puntos)
 6. Me gustaría que tanto la página _Home_, como las páginas _acerca de nosotros_ y _contacto_ se visualizasen a través de plantillas **independientes** y que en ninguna de las tres se viesen ni el autor ni la fecha, pero si se viese en el cuerpo de la página tanto el título como el contenido (20 puntos)
 7. Me gustaría crear una plantilla del footer tal y como he hecho con el header, y que todas las páginas que creo lo incorporen. ¿Lo podrías hacer? (10 puntos)
@@ -39,3 +39,9 @@ Hay que resolver los siguientes problemas:
    - Opcion 4: Crear un fichero .php: _page.php_ (1/3 puntuación)
 7. Crear un fichero _footer.php_ y añadir la clausula _get-footer()_ en las plantillas generales: _index.php, single.php, page\*.php, front-page.php_
 8. Añadir la clausula _wp_footer()_ en el fichero _footer.php_
+
+## Imágenes
+
+Imagen 1
+
+![Imagen 1](https://github.com/menendezjaume/temaWordpressExamenFuncional/blob/main/inc/img/imagen.png)
