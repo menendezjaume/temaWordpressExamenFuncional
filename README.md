@@ -17,7 +17,7 @@ Hay que resolver los siguientes problemas:
 3. Me gustaría poner el título del blog como título de la página, para que cuando alguien lo visite, el explorador ponga el título (ver imagen 1) (10 puntos)
 4. Quiero incorporar un menú de navegación en el footer, pero no sé cómo hacerlo (20 puntos)
 5. En el directorio _template-parts/content_ he creado un fichero llamado _content-single.php_. Me gustaría incorporar eso como parte de la plantilla del single. pero no sé cómo hacerlo. Ahora mismo la plantilla single está vacía. (10 puntos)
-6. Me gustaría que tanto la página _Home_, como las páginas _acerca de nosotros_ y _contacto_ se visualizasen a través de plantillas **independientes** y que en ninguna de las tres se viese el autor, pero si se viese en el cuerpo de la página tanto el título como el contenido (20 puntos)
+6. Me gustaría que tanto la página _Home_, como las páginas _acerca de nosotros_ y _contacto_ se visualizasen a través de plantillas **independientes** y que en ninguna de las tres se viesen ni el autor ni la fecha, pero si se viese en el cuerpo de la página tanto el título como el contenido (20 puntos)
 7. Me gustaría crear una plantilla del footer tal y como he hecho con el header, y que todas las páginas que creo lo incorporen. ¿Lo podrías hacer? (10 puntos)
 8. Antes, cuando estaba logeado como usuario en el panel de administrador y visitaba el blog, me salía un menú negro de WordPress arriba. Ahora ya no. ¿Podrías recuperarlo? (10 puntos)
 
