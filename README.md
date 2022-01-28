@@ -5,6 +5,7 @@
 - Aunque no es necesario tener una instalación de WordPress funcional, es muy recomendado. Podrás ver si los cambios que haces tienen efecto o no, y si vas por buen camino
 - Clona este repositorio en el directorio de temas (_themes_) de tu instalación de WordPress (si la tienes)
 - Recuerda que si vas a usar WordPress para ver como vas corrigiendo los errores(recomendado), para este examen los _ajustes_ de _lectura_ tienen que estar configurados de modo que _Tu página de inicio muestre_ como portada el _home_, y como página de entradas el _blog_
+- Para que el menú de arriba se vea bien, necesitareis asignarle un menú desde la opción _apariencia_ _menus_ tal y como hemos visto en clase
 - Abre el directorio con tu IDE favorito (Visual Studio Code?)
 
 ## Enunciado
