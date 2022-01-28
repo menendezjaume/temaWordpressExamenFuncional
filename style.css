@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*
+Theme Name: Tema roto
+Author: MA
+Description: Descripción de nuestro tema roto
+Requires PHP: 5.2.4
+Version: 0.1
+Text Domain: tema
+Tags: bootstrap
+*/
+
+ul {
+    list-style: none;
+}
